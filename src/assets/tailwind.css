@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Fix para los botones de SweetAlert2 afectados por Tailwind */
+.my-confirm-btn {
+  @apply bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 mx-10;
+}
+
+.my-cancel-btn {
+  @apply bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600 mx-12;
+}
