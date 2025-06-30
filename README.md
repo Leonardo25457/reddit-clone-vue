@@ -6,6 +6,7 @@ Aplicación SPA que consume la API pública de Reddit para visualizar publicacio
 ## 🚀 Tecnologías
 - Vue 2 + Vuex + Vue Router
 - Tailwind CSS
+- Sweetalert2
 - Firebase (Autenticación)
 - Axios
 - Vercel para despliegue
